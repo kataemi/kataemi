@@ -4,6 +4,6 @@
 I'm a vulnerability researcher and security enthusiast.
 
 ## [About me](https://github.com/kataemi)
--  Assembly, C/C++, Python and (... more languages) user
--  Reverse Engineering
+-  A C/C++, Python and (... more languages) user
+-  Penetration Testing & web3
 -  Application Security Research
