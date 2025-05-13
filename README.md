@@ -1,4 +1,4 @@
-# [<3kataemi←<sup>codefornia</sup>](https://github.com/kataemi)
+# [<3kataemi←<sup></sup>](https://github.com/kataemi)
 
 
 I'm a vulnerability researcher and security enthusiast.
